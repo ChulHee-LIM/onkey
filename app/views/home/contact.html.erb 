@@ -1,0 +1,14 @@
+<footer class="footer-social-icon text-center section_padding_70 clearfix">
+    <!-- footer logo -->
+    <div class="footer-text">
+        <%=image_tag("bg-img/onkey_logo.png", :style => "max-height: 45px; padding-bottom:10px;",alt: "")%>
+    </div>
+    <a href="https://www.instagram.com/onkey_us/" style=""><i class="fa fa-instagram"></i><a>
+    <!-- Foooter Text-->
+    <div class="copyright-text">
+        <div class="line-shape"></div>
+        <br>
+        <!-- ***** Removing this text is now allowed! This template is licensed under CC BY 3.0 ***** -->
+        <p>Legal © 2019 <a href="https://onkey.kr" target="_blank">ONKEY</a> All rights reserved.</p>
+    </div>
+</footer>
