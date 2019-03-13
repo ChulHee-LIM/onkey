@@ -3287,3 +3287,12 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 7343ms (Views: 7051.5ms)
 
 
+Started GET "/" for 127.0.0.1 at 2019-03-12 18:17:15 -0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (943.2ms)
+  Rendered layouts/_navigation.html.erb (4.4ms)
+  Rendered layouts/_footer.html.erb (1.8ms)
+Completed 200 OK in 1663ms (Views: 1085.1ms)
+
+
